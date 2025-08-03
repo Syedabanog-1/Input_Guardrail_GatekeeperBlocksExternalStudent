@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/49a3b8f8-63ff-4872-8175-a76f4783b7e5
 <img width="1610" height="905" alt="gatekeeperblock-external-Generations" src="https://github.com/user-attachments/assets/594a4036-da0d-4e2a-be93-d952888ddbd4" />
 <img width="1611" height="907" alt="gatekeeperblock-external-Triggered-True" src="https://github.com/user-attachments/assets/7c9ba9c5-03c2-495e-a28d-09c77a617fa4" />
 <img width="1608" height="905" alt="gatekeeperblock-external-Triggered-True-Error" src="https://github.com/user-attachments/assets/c7718895-1195-4c5b-8035-552c28e38a37" />
-<img width="1613" height="905" alt="gatekeeperblock-external-code-output" src="https://github.com/user-attachments/assets/b5268576-572b-4e2a-a4ed-44d18d371e83" />
+
 
 
 
